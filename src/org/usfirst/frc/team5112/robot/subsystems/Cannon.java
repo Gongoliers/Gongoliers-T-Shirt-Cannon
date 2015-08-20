@@ -12,6 +12,7 @@ public class Cannon extends Subsystem{
 	
 	public void fire(){
 		System.out.println("Boom!!!!!!");
+		
 	}
 
 }
