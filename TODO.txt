@@ -1,0 +1,30 @@
+# Subsystems
+
+	* Drive Train
+		- Drive straight
+		- Rotate
+		- Operator control
+		- Stop
+	* Cannon
+		- Fire
+		- Load
+		- Shirt in barrel?
+	* Turret
+		- Rotate y
+		- Rotate z
+		- Operator control
+		- Rotation x/y?
+		- Stop
+	
+# Commands
+
+	* Operator control - Drive train
+	* Operator control - turret
+	* Rotate turret 90 degrees (left and right)
+	* Rotate turret 45 degrees (up)
+	* Rotate turret 90 degrees (up)
+	* Store turret (back to 0, 0)
+	* Shoot
+	* Load (turret up 90 degrees, center, pressure after shirt in)
+	* Stop (freezes robot at position) -> stop drive train, stop turret
+	
